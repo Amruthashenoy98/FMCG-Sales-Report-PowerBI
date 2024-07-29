@@ -1,4 +1,4 @@
-## This is a Power BI project on FMCG Sales Analysis Report.
+## This is a Power BI project on FMCG Sales Analysis Report. It has been published to Power BI service.
 
 1. Home Page
    ![image](https://github.com/user-attachments/assets/9eb550b8-a830-4fb3-8e44-c097f08730a5)
