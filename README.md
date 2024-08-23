@@ -1,4 +1,11 @@
-## This is a Power BI project on FMCG Sales Analysis Report. It has been published to Power BI service.
+## Project Overview
+TechnoEdge deals with diverse products reflected in columns like Order and Product ID, Category, and Sub-Category. Key sales metrics like Sales, Quantity, Discount, and Profit can inform performance analysis. A report with a summary, customer, and product pages can help identify areas for improvement, with insights on customer lifetime value, retention rate, and product performance.
+
+### Data Source
+Excel workbook (.xlsx)
+
+### Tools used:
+Microsoft Power BI, SQL for Data analysis
 
 1. Home Page
    ![image](https://github.com/user-attachments/assets/9eb550b8-a830-4fb3-8e44-c097f08730a5)
